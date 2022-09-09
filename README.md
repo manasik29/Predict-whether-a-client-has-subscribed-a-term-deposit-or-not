@@ -1,4 +1,4 @@
-# Logistic-Regression
+# **Predict-whether-a-client-has-subscribed-a-term-deposit-or-not**
 
 Problem Statment - bank data
 
